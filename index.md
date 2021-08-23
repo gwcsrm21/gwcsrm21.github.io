@@ -20,8 +20,9 @@ In this course, students will learn the methodology behind experimental research
 </blockquote>
 
 ## Announcements ##
-- Welcome! This site is still getting setup.
+- Welcome! 
 - Below is a rough schedule based on a prior offering of this course. This year's content may change or be reorganized!
+- **Please [complete this form](https://forms.gle/KQHTqhLjzrmBuk6F6) by the end of the first week**.
 
 ## Schedule  ##
 <div style="font-size:90%">
