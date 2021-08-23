@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Web site title"
+title: "CS8901 Research & Evaluation Methods"
 email: timwood@gwu.edu
 author: Timothy Wood
 description: > # this means to ignore newlines until "baseurl:"
-  Course description goes here.
+  CS 8901 Research & Evaluation Methods
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://gwcloudlab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gwcsrm21.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  gwcloudlab
+github_username: gwcsrm21
 
 # destination: ./docs
 
