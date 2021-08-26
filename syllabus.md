@@ -26,7 +26,7 @@ The course will cover topics such as:
   - Giving short and long oral presentations
 
 ## Assignments
-The course will not include any exams. Students will be expected to do substantial reading and writing, both within and outside of their field. Students will be expected to make progress on a research project throughout the semester, and will give a final writeup and presentation.  A large part of your grade will be based on class participation!
+The course will not include any exams. Students will be expected to practice reading and writing, both within and outside of their field. Students will be expected to make progress on a research project throughout the semester, and will give a final writeup and presentation.  A large part of your grade will be based on class participation!
 
 ## Academic Honesty
 All work submitted must be your own. *This is especially important for written assignments* -- you may **NOT** submit text copy and pasted from any other source!  Don't do it! Ever!
