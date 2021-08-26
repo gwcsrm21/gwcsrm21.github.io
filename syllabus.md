@@ -14,7 +14,7 @@ In this course, students will learn the methodology behind experimental research
 There is no required textbook for the course.  The instructor will provide a set of books and online resources.
 
 ## Requirements
-*Registration is restricted to CS Ph.D. students*, but some masters or undergraduate students actively engaged in a research project may be allowed to take the course with the approval of their research advisor and the instructor. Students should be involved in a research project before the start of the course if possible.  *New Ph.D. students are particularly encouraged to take the course.* Ph.D. students from related disciplines in SEAS may be considered if space allows.
+*Registration is restricted to CS Ph.D. students*, but some masters or undergraduate students actively engaged in a research project may be allowed to take the course with the approval of their research advisor and the instructor. Students must be involved in a research project before the start of the course.  *New Ph.D. students are particularly encouraged to take the course.* Ph.D. students from related disciplines in SEAS may be considered if space allows.
 
 ## Topics
 The course will cover topics such as:
