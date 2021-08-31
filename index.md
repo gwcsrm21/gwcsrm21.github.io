@@ -28,37 +28,37 @@ In this course, students will learn the methodology behind experimental research
 <div style="font-size:90%">
 
 | *Week 1*  | [Intro to Research Methods and Reading Papers](/slides/1-overview.pdf) <br> Papers: [Wood](week1/wood-icac16netkv.pdf) / [Parmer](week1/parmer-rtas20slite.pdf) / [Aviv](week1/aviv-smudge.pdf) / [Yerukhimovich](week1/yerukhimovich-sp.pdf)  |
-| Due: | [Complete this form](https://forms.gle/KQHTqhLjzrmBuk6F6) by Friday September 3rd|
+| Assignments: | [Complete this form](https://forms.gle/KQHTqhLjzrmBuk6F6) by Friday September 3rd <br>Write 1 page research description; bring a printed copy to next class<br>Read Loehle's guide to creativity to discuss next class|
 | *Week 2*  | [Selecting Research Projects](/slides/2-problems.pdf) and [Computer Science as Science](/slides/3-science.pdf)|
-| Due: | 1 page research description due in class; bring a printed copy to class September 7th|
+| Assignments: | |
 | *Week 3*  | [All About Papers and Conferences](/slides/4-papers-conferences.pdf)|
-| Due: | |
+| Assignments: | |
 | *Week 4*  | [Why Science is Hard](/slides/5-science-is-hard.pdf)  |
-| Due: | |
+| Assignments: | |
 | *Week 5*  | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf)|
-| Due: | |
+| Assignments: | |
 | *Week 6*  | Writing Workshop |
-| Due: | |
+| Assignments: | |
 | *Week 7*  | [Experimental Design](/slides/7-exp-design.pdf)  |
-| Due: | |
+| Assignments: | |
 | *Week 8*  | [Statistics](/slides/WhyStatistics.pdf) - slides by Dr. Pablo Frank Bolton|
-| Due: | |
+| Assignments: | |
 | *Week 9*  | [Presenting Clearly 1](/slides/8-presenting.pdf)  |
-| Due: | |
+| Assignments: | |
 | *Week 10* | [Presenting Clearly 2](/slides/8-presenting.pdf) |
-| Due: | |
+| Assignments: | |
 | *Week 11* | Creativity|
-| Due: | |
+| Assignments: | |
 | *Week 12* | [Grant Writing](/slides/11-grants.pdf) |
-| Due: | |
+| Assignments: | |
 | *Week 13* | [Research Recipes](/slides/9-recipes.pdf), [Personal Productivity](/slides/9-time.pdf), and [behind the scenes of CS hiring](/slides/9-hiring.pdf)|
-| Due: | |
+| Assignments: | |
 | *Week 14* | [Visualizing Your Research](/slides/10-visuals.pdf) |
-| Due: | |
+| Assignments: | |
 | *Week 15* | Posters, Videos, and Demos |
-| Due: | |
+| Assignments: | |
 | *Week 16* | Wrap Up|
-| Due: | |
+| Assignments: | |
 
 </div>
 
