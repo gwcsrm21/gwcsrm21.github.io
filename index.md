@@ -29,15 +29,15 @@ In this course, students will learn the methodology behind experimental research
 
 | *Week 1*<br>8/31/21  | [Intro to Research Methods and Reading Papers](/slides/1-overview.pdf) <br> Papers: [Wood](week1/wood-icac16netkv.pdf) / [Parmer](week1/parmer-rtas20slite.pdf) / [Aviv](week1/aviv-smudge.pdf) / [Yerukhimovich](week1/yerukhimovich-sp.pdf)  |
 | Assignments: | [Complete this form](https://forms.gle/KQHTqhLjzrmBuk6F6) by Friday September 3rd <br>Write 1 page research description ([see slide 35](/slides/1-overview.pdf)); bring a printed copy to next class or email if you are not in person.|
-| *Week 2*<br>9/6/21  | [Selecting Research Projects](/slides/2-problems.pdf) and [Computer Science as Science](/slides/3-science.pdf)|
+| *Week 2*<br>9/7/21  | [Selecting Research Projects](/slides/2-problems.pdf) and [Computer Science as Science](/slides/3-science.pdf)|
 | Assignments: |Read [Loehle's guide to creativity](/week2/creativity-loehle.pdf) to discuss in week 3 |
-| *Week 3*<br>9/13/21  | [All About Papers and Conferences](/slides/4-papers-conferences.pdf)|
+| *Week 3*<br>9/14/21  | [All About Papers and Conferences](/slides/4-papers-conferences.pdf)|
 | Assignments: | |
-| *Week 4*  | [Why Science is Hard](/slides/5-science-is-hard.pdf)  |
+| *Week 4*<br>9/21/21  | [Why Science is Hard](/slides/5-science-is-hard.pdf)  |
+| Assignments: | [Literature Survey](/project/#Literature-Survey) - due Tuesday Oct 5th |
+| *Week 5*<br>9/28/21  | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf)|
 | Assignments: | |
-| *Week 5*  | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf)|
-| Assignments: | |
-| *Week 6*  | Writing Workshop |
+| *Week 6*<br>10/5/21  | Writing Workshop |
 | Assignments: | |
 | *Week 7*  | [Experimental Design](/slides/7-exp-design.pdf)  |
 | Assignments: | |
