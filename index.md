@@ -35,10 +35,8 @@ In this course, students will learn the methodology behind experimental research
 | Assignments: | |
 | *Week 4*<br>9/21/21  | [Why Science is Hard](/slides/5-science-is-hard.pdf)  |
 | Assignments: | [Literature Survey](/project/#Literature-Survey) - due Tuesday Oct 5th |
-| *Week 5*<br>9/28/21  | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf)|
-| Assignments: | |
-| *Week 5*  | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf) - [Writing Sins](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)|
-| Assignments: | |
+| *Week 5*<br>9/28/21  | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf) - [Hamilton U - Writing Sins](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing) |
+| Assignments: | [Literature Survey](/project/#Literature-Survey) - due Tuesday Oct 5th |
 | *Week 6*  | Writing Workshop |
 | *Week 6*<br>10/5/21  | Writing Workshop |
 | Assignments: | |
