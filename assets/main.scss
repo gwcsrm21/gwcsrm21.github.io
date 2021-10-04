@@ -129,6 +129,10 @@ th {
   color:#444;
 }
 
+/* Shrink assignment rows */
+table tr:nth-child(even) { font-size: 85%; }
+
+
 
 /**
  * Blockquotes

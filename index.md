@@ -34,32 +34,29 @@ In this course, students will learn the methodology behind experimental research
 | *Week 3*<br>9/14/21  | [All About Papers and Conferences](/slides/4-papers-conferences.pdf)|
 | Assignments: | |
 | *Week 4*<br>9/21/21  | [Why Science is Hard](/slides/5-science-is-hard.pdf)  |
-| Assignments: | [Literature Survey](/project/#Literature-Survey) - due Tuesday Oct 5th |
+| Assignments: | [Literature Survey](/project/#literature-survey) - **due Tuesday Oct 5th** |
 | *Week 5*<br>9/28/21  | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf) - [Hamilton U - Writing Sins](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing) |
-| Assignments: | [Literature Survey](/project/#Literature-Survey) - due Tuesday Oct 5th |
-| *Week 6*  | Writing Workshop |
+| Assignments: | |
 | *Week 6*<br>10/5/21  | Writing Workshop |
 | Assignments: | |
-| *Week 7*  | [Experimental Design](/slides/7-exp-design.pdf)  |
+| *Week 7*<br>10/12/21  | [Experimental Design](/slides/7-exp-design.pdf)  |
+| Assignments: | [Experimental Design Report](/project/#experimental-design) - **due Tuesday 10/19** |
+| *Week 8*<br>10/19/21  | [Statistics](/slides/WhyStatistics.pdf) - slides by Dr. Pablo Frank Bolton|
+| Assignments: |  |
+| *Week 9*<br>10/26/21  | [Presenting Clearly 1](/slides/8-presenting.pdf)  |
 | Assignments: | |
-| *Week 8*  | [Statistics](/slides/WhyStatistics.pdf) - slides by Dr. Pablo Frank Bolton|
+| *Week 10*<br>11/2/21 | [Visualizing Your Research](/slides/10-visuals.pdf) |
+| Assignments: | Your Approach Visualization - **due Tuesday 11/16** |
+| *Week 11*<br>11/9/21 | [Personal Productivity](/slides/9-time.pdf), and [behind the scenes of CS hiring](/slides11/23/21/9-hiring.pdf)  |
 | Assignments: | |
-| *Week 9*  | [Presenting Clearly 1](/slides/8-presenting.pdf)  |
+| *Week 12*<br>11/16/21| [Presenting Clearly 2](/slides/8-presenting.pdf)  |
 | Assignments: | |
-| *Week 10* | [Presenting Clearly 2](/slides/8-presenting.pdf) |
+| *Week 13*<br> | [Creativity and Grant Writing](/slides/11-grants.pdf)  |
 | Assignments: | |
-| *Week 11* | Creativity|
+| *Week 14*<br>11/30/21 | [Research Recipes](/slides/9-recipes.pdf) |
 | Assignments: | |
-| *Week 12* | [Grant Writing](/slides/11-grants.pdf) |
-| Assignments: | |
-| *Week 13* | [Research Recipes](/slides/9-recipes.pdf), [Personal Productivity](/slides/9-time.pdf), and [behind the scenes of CS hiring](/slides/9-hiring.pdf)|
-| Assignments: | |
-| *Week 14* | [Visualizing Your Research](/slides/10-visuals.pdf) |
-| Assignments: | |
-| *Week 15* | Posters, Videos, and Demos |
-| Assignments: | |
-| *Week 16* | Wrap Up|
-| Assignments: | |
+| *Week 16*<br>12/7/21 | Class Poster Session |
+| Assignments: | Poster **due Tuesday 12/7**<br>Final Report **due 12/10** (no penalty grace period until 12/19) |
 
 </div>
 
