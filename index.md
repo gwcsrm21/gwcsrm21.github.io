@@ -55,7 +55,7 @@ In this course, students will learn the methodology behind experimental research
 | Assignments: | |
 | *Week 14*<br>11/30/21 | [Research Recipes](/slides/9-recipes.pdf) |
 | Assignments: | |
-| *Week 16*<br>12/7/21 | Class Poster Session |
+| *Week 15*<br>12/7/21 | Class Poster Session |
 | Assignments: | Poster **due Tuesday 12/7**<br>Final Report **due 12/10** (no penalty grace period until 12/19) |
 
 </div>
