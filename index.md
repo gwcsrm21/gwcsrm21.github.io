@@ -37,7 +37,7 @@ In this course, students will learn the methodology behind experimental research
 | Assignments: | [Literature Survey](/project/#literature-survey) - **due Tuesday Oct 5th** |
 | *Week 5*<br>9/28/21  | [Writing Well](/slides/6-stories.pdf) - [Abstracts](/slides/abstracts.pdf) - [Hamilton U - Writing Sins](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing) |
 | Assignments: | |
-| *Week 6*<br>10/5/21  | Writing Workshop |
+| *Week 6*<br>10/5/21  | [Writing Workshop](/slides/6b-writing-workshop.pdf) |
 | Assignments: | |
 | *Week 7*<br>10/12/21  | [Experimental Design](/slides/7-exp-design.pdf)  |
 | Assignments: | [Experimental Design Report](/project/#experimental-design) - **due Tuesday 10/19** |
