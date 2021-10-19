@@ -41,9 +41,9 @@ In this course, students will learn the methodology behind experimental research
 | Assignments: | |
 | *Week 7*<br>10/12/21  | [Experimental Design](/slides/7-exp-design.pdf)  |
 | Assignments: | [Experimental Design Report](/project/#experimental-design) - **due Tuesday 10/19** |
-| *Week 8*<br>10/19/21  | [Statistics](/slides/WhyStatistics.pdf) - slides by Dr. Pablo Frank Bolton|
+| *Week 8*<br>10/19/21  | [Presenting Clearly 1](/slides/8-presenting.pdf)|
 | Assignments: |  |
-| *Week 9*<br>10/26/21  | [Presenting Clearly 1](/slides/8-presenting.pdf)  |
+| *Week 9*<br>10/26/21  | [Statistics](/slides/WhyStatistics.pdf) - slides by Dr. Pablo Frank Bolton  |
 | Assignments: | |
 | *Week 10*<br>11/2/21 | [Visualizing Your Research](/slides/10-visuals.pdf) |
 | Assignments: | Your Approach Visualization - **due Tuesday 11/16** |
