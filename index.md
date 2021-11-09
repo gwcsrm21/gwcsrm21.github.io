@@ -46,15 +46,15 @@ In this course, students will learn the methodology behind experimental research
 | *Week 9*<br>10/26/21  | [Practice and Productivity](/slides/9-practice-productivity.pdf)  |
 | Assignments: | |
 | *Week 10*<br>11/2/21 | [Visualizing Your Research](/slides/10-visuals.pdf) |
-| Assignments: | Your Approach Visualization - **due Tuesday 11/16** |
-| *Week 11*<br>11/9/21 | [Creativity and Grant Writing](/slides/11-grants.pdf)  |
-| Assignments: | Consulting Meetings: Cuidi, Xinyu, Hunter, Collins |
+| Assignments: | Your Approach Visualization - **due Tuesday 11/23** |
+| *Week 11*<br>11/9/21 | [Grant Writing](/slides/11-grants.pdf)  |
+| Assignments: | Consulting Meetings: Xinyu, Hunter, Collins |
 | *Week 12*<br>11/16/21| [Presenting Clearly 2](/slides/8-presenting.pdf)  |
 | Assignments: | Consulting Meetings: Emil, Ellie, Kahang, Nelson|
-| *Week 13*<br>11/23/21 | TBD  |
+| *Week 13*<br>11/23/21 | Creativity  |
 | Assignments: | Consulting Meetings: David, Cat, Lingsheng, Deng|
 | *Week 14*<br>11/30/21 | [Research Recipes](/slides/9-recipes.pdf) |
-| Assignments: | Consulting Meetings: Xiaosu, Jie, Moarui |
+| Assignments: | Consulting Meetings: Xiaosu, Jie, Maorui, Cuidi |
 | *Week 15*<br>12/7/21 | Class Poster Session |
 | Assignments: | Poster **due Tuesday 12/7**<br>Final Report **due 12/10** (no penalty grace period until 12/19) |
 
