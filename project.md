@@ -74,6 +74,8 @@ During our final class we will have a mini poster session. You should create a p
 
 You should create your poster as a single 24x36 inch (landscape) slide in a tool such as PowerPoint/Keynote/Google Slides. The best looking poster will be turned into a template to share with the class.
 
+During our final class, you will have a few minutes to present your poster (details coming soon).
+
 
 **Submission:** [Upload a PDF here](https://www.dropbox.com/request/bXjGihB9OjTCtRQbXRmV). 
 
