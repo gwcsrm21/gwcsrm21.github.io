@@ -55,10 +55,29 @@ The experimental plans in this document do not limit what you evaluate over the 
 **Due:** Tuesday October 19th at 11:59PM
 
 ## Your Approach, Visualized
-Details coming soon...
+Every good paper needs at least one key figure that provides a clear and memorable explanation of the work. For this assignment you must create a diagram or graph that will act as a center piece for your project.  This could be a system overview diagram or a visual representation of an algorithm. Alternatively, you can make a set of graphs that show the key results of your work, however, you should avoid this unless you are presenting that data in an interesting or unique way -- I do not simply want to see some bar or line graphs.
+
+I recommend you make your diagram with [diagrams.net](https://www.diagrams.net/), but if your lab consistently uses a different tool, that is also fine. You could also use a tool such as Powerpoint, but in that case you should take care to make it not look like a typical powerpoint diagram. You should follow the advice from Week 10 on how to make attractive, easy to read visuals.
+
+**Submission:** [Upload a PDF here](https://www.dropbox.com/request/5iB6XQloKwRbqVHqy9GH). 
+
+**Due:** Tuesday November 23rd before class.
+
 
 ## Project Poster
-Details coming soon...
+During our final class we will have a mini poster session. You should create a poster that gives an overview of what you have done this semester. Your poster should:
+
+ - Be easy to read and attractive looking
+ - Motivate the problem you are working on
+ - Outline your proposed solution
+ - Present experimental results or plans
+
+You should create your poster as a single 24x36 inch (landscape) slide in a tool such as PowerPoint/Keynote/Google Slides. The best looking poster will be turned into a template to share with the class.
+
+
+**Submission:** [Upload a PDF here](https://www.dropbox.com/request/bXjGihB9OjTCtRQbXRmV). 
+
+**Due:** Tuesday December 7th in class.
 
 ## Final Report
 Details coming soon...
