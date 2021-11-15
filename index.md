@@ -49,8 +49,8 @@ In this course, students will learn the methodology behind experimental research
 | Assignments: |  |
 | *Week 11*<br>11/9/21 | [Grant Writing](/slides/11-grants.pdf)  |
 | Assignments: | Consulting Meetings: Xinyu, Hunter, Collins <br>Your [Approach Visualization](/project/#your-approach-visualized) - **due Tuesday 11/23** |
-| *Week 12*<br>11/16/21| [Presenting Clearly 2](/slides/8-presenting.pdf)  |
-| Assignments: | Consulting Meetings: Emil, Ellie, Kahang, Nelson|
+| *Week 12*<br>11/16/21| [Presenting Clearly 2](/slides/12-presenting2.pdf)  |
+| Assignments: | Consulting Meetings: Emil, Ellie*, Kahang, Nelson|
 | *Week 13*<br>11/23/21 | Creativity  |
 | Assignments: | Consulting Meetings: David, Cat, Lingsheng, Deng <br>Your [Project Poster](/project/#project-poster) - **due Tuesday 12/7**|
 | *Week 14*<br>11/30/21 | [Research Recipes](/slides/9-recipes.pdf) |
