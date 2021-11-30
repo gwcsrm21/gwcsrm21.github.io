@@ -52,11 +52,11 @@ In this course, students will learn the methodology behind experimental research
 | *Week 12*<br>11/16/21| [Presenting Clearly 2](/slides/12-presenting2.pdf)  |
 | Assignments: | Consulting Meetings: Emil, Kahang, Nelson|
 | *Week 13*<br>11/23/21 | [Creativity](slides/13-creativity.pdf)  |
-| Assignments: | Consulting Meetings: Ellie, David, Cat, Lingsheng, Deng <br>Your [Project Poster](/project/#project-poster) - **due Tuesday 12/7**|
-| *Week 14*<br>11/30/21 | [Research Recipes](/slides/9-recipes.pdf) |
-| Assignments: | Consulting Meetings: Xiaosu, Jie, Maorui, Cuidi |
+| Assignments: | Consulting Meetings: Deng <br>Your [Project Poster](/project/#project-poster) - **due Tuesday 12/7**|
+| *Week 14*<br>11/30/21 | [Research Recipes](/slides/14-recipes.pdf) |
+| Assignments: | Consulting Meetings: Xiaosu, Jie, Maorui, Cuidi, Ellie, David, Cat, Lingsheng |
 | *Week 15*<br>12/7/21 | Class Poster Session |
-| Assignments: | Poster **due Tuesday 12/7**<br>Final Report **due 12/10** (no penalty grace period until 12/19) |
+| Assignments: | Poster **due Tuesday 12/7**<br>Final Report **due 12/19** |
 
 </div>
 
