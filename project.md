@@ -82,4 +82,19 @@ During our final class, you will have a few minutes to present your poster (deta
 **Due:** Tuesday December 7th in class.
 
 ## Final Report
-Details coming soon...
+Combination of all material so far:
+
+1. Project Overview (~1 page)
+2. Literature Survey (~1-3 pages)
+  - Modify based on my feedback if necessary
+3. Proposed Approach (~1-2 pages)
+  - New text to explain your visual (~1 page) 
+4. Experimental Design/Results (1-2 pages)
+  - Describe experiments you either have run or plan to run. 
+  - Can include "fake" results for what you expect to see (but clearly label them this way)
+5. Conclusion ( 0.5 pages)
+  - Emphasize a few key points about your results or your design
+
+Prepare this in a format fitting for your end goal (Latex conference template, Python Notebook, etc).
+
+Note: If you have prepared a conference or journal paper on your research during the last month, then you may submit that in place of this report.
