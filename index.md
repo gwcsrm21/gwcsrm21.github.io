@@ -55,8 +55,8 @@ In this course, students will learn the methodology behind experimental research
 | Assignments: | Consulting Meetings: Deng <br>Your [Project Poster](/project/#project-poster) - **due Tuesday 12/7**|
 | *Week 14*<br>11/30/21 | [Research Recipes](/slides/14-recipes.pdf) |
 | Assignments: | Consulting Meetings: Xiaosu, Jie, Maorui, Cuidi, Ellie, David, Cat, Lingsheng |
-| *Week 15*<br>12/7/21 | Class Poster Session |
-| Assignments: | Poster **due Tuesday 12/7**<br>Final Report **due 12/19** |
+| *Week 15*<br>12/7/21 | Class Poster Session (online) |
+| Assignments: | [Poster](/project/#project-poster) **due Tuesday 12/7**<br>[Final Report](/project/#final-report) **due 12/19** |
 
 </div>
 
