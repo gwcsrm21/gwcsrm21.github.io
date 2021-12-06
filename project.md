@@ -74,7 +74,15 @@ During our final class we will have a mini poster session. You should create a p
 
 You should create your poster as a single 24x36 inch (landscape) slide in a tool such as PowerPoint/Keynote/Google Slides. The best looking poster will be turned into a template to share with the class.
 
-During our final class, you will have a few minutes to present your poster (details coming soon).
+During our final class, you will give a 3-5 minute research pitch:
+
+  - Overview the problem - why is it important? what is hard?
+  - High level description of solution / approach
+  - Preliminary results or experimental plans (can be fake)
+  - Conclusion that emphasizes key points
+  - 3-5 min Q&A (must be at least 3 questions per poster)
+  - Can use poster slide directly, or break it into smaller zoomed in slides
+    - Don't make a separate set of slides, pretend that you are standing next to a physical poster and directing our attention to it
 
 
 **Submission:** [Upload a PDF here](https://www.dropbox.com/request/bXjGihB9OjTCtRQbXRmV). 
